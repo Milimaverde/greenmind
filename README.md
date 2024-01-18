@@ -1,30 +1,8 @@
-# React + TypeScript + Vite
+# Greenmind 🌼
+O Greenmind é o meu projeto de portfólio, desenvolvido em React com TypeScript e estilizado com Tailwind CSS. Este e-commerce para uma loja de plantas destaca-se pela sua interface dinâmica e responsiva, impulsionada pelo React, garantindo uma experiência de usuário envolvente. O design UI/UX, criado por SaulDesign, adiciona uma estética refinada, desde a navegação intuitiva até os elementos visuais.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A integração do TypeScript fortalece a base de código, facilitando a manutenção e proporcionando uma experiência de desenvolvimento mais fluida. O uso do Tailwind CSS não só embeleza a interface, mas também simplifica a personalização de estilos, evidenciando uma abordagem eficaz no desenvolvimento.
 
-Currently, two official plugins are available:
+O Greenmind não é apenas um e-commerce de plantas; é uma vitrine digital que convida os usuários a explorarem a diversidade do reino vegetal. Este projeto reflete meu compromisso com a excelência no desenvolvimento web, destacando a sinergia entre inovação tecnológica e design cuidadoso em colaboração com SaulDesign.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+Link do projeto no figma: https://www.figma.com/community/file/1225304944879923178/e-commerce-plant-shop-website
